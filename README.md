@@ -19,20 +19,20 @@ powerful computation in a compact M.2 form factor.
 
 ## 📸 Photos
 
-![Front View](./assets/images/facc-k7-photo-front.png)  
+![Front View](./docs/img/facc-k7-photo-front.png)  
 *Front view of NVX.FACC-K7 module*
 
-![Angled View](./assets/images/facc-k7-photo-angled.png)  
+![Angled View](./docs/img/facc-k7-photo-angled.png)  
 *Angled view of NVX.FACC-K7 module*
 
-![In System View](./assets/images/facc-k7-on-board-top.png)  
+![In System View](./docs/img/facc-k7-on-board-top.png)  
 *Installed on development board*
 
 ---
 
 ## 🧬 Architecture
 
-![Architecture Block Diagram](./assets/images/facc-k7-architecture-diagram.png)
+![Architecture Block Diagram](./docs/img/facc-k7-architecture-diagram.png)
 
 ---
 
