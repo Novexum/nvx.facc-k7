@@ -56,7 +56,7 @@ powerful computation in a compact M.2 form factor.
 
 - AI / DSP / DPU acceleration  
 - Computational iStorage  
-- SDR & signal intelligence backends  
+- signal intelligence backends  
 - Embedded RISC-V / softcore prototyping  
 - Custom accelerator research
 
